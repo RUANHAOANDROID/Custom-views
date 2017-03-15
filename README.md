@@ -1,1 +1,3 @@
-# 自定义View系列学习http://blog.csdn.net/aigestudio?viewmode=contents
+# 自定义View系列学习
+
+http://blog.csdn.net/aigestudio?viewmode=contents
